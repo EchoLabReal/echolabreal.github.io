@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Min side</title>
+</head>
+
+<body>
+
+  <h1>Velkommen til min hjemmeside</h1>
+
+  <p>Det her er min første side 🔥</p>
+
+  <a href="https://google.com">Gå til Google</a>
+
+</body>
+</html>
